@@ -1,4 +1,4 @@
-# Project Title: Retrieval Augmented Generation Using MongoDB Atlas and OpenAI
+# Retrieval Augmented Generation Using MongoDB Atlas and OpenAI
 
 ## Overview
 
